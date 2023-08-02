@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-americanairlines",
-  "version": "1.0.2",
+  "name": "eslint-backstage",
+  "version": "1.0.0",
   "description": "American Airline's ES-Lint configuration",
   "main": "index.js",
   "author": "@jpdeburgo",
@@ -8,6 +8,6 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/AmericanAirlines/eslint-config-americanairlines.git"
+    "url": "https://github.com/AmericanAirlines/eslint-backstage.git"
   }
 }
