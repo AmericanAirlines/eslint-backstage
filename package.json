@@ -1,5 +1,5 @@
 {
-  "name": "eslint-backstage",
+  "name": "@americanairlines/eslint-backstage",
   "version": "1.0.0",
   "description": "American Airline's ES-Lint configuration",
   "main": "index.js",
