@@ -1,3 +1,3 @@
-# runway-eslint-config
+# `@americanairlines/eslint-backstage`
 
-American Airline's Runway Team's ES-Lint configuration
+The official American Airlines eslint configuration for use with Spotify's [Backstage](https://backstage.spotify.com)
