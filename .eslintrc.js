@@ -9,6 +9,9 @@ module.exports = {
     settings: {},
     globals: {},
     rules: {},
+    parserOptions: {
+        "sourceType": "module",
+    }
     overrides: [
       {
         files: ['*.test.ts', '*.test.tsx'],
