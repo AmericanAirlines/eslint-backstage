@@ -9,6 +9,10 @@ module.exports = {
     settings: {},
     globals: {},
     rules: {},
+    parserOptions: {
+        "sourceType": "module",
+    },
+    parser: '@typescript-eslint/parser',
     overrides: [
       {
         files: ['*.test.ts', '*.test.tsx'],
