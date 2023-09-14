@@ -1,9 +1,13 @@
 {
-  "name": "runway-eslint-config",
-  "version": "1.0.0",
-  "description": "American Airline's Runway Team's ES-Lint configuration",
+  "name": "@americanairlines/eslint-backstage",
+  "version": "1.0.3",
+  "description": "American Airline's ES-Lint configuration",
   "main": "index.js",
   "author": "@jpdeburgo",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmericanAirlines/eslint-backstage.git"
+  }
 }
